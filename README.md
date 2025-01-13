@@ -6,11 +6,11 @@ Early detection and management of diabetic peripheral neuropathy (DPN) are criti
 
 ![example](./Images/VT.png)
 
-##😊 Citation
+## 😊 Citation
 
 If you used this code, please cite our paper in your work:
 
-``@article{ben4vision,
+```@article{ben4vision,
   title={Vision Transformers for Automated Detection of Diabetic Peripheral Neuropathy in Corneal Confocal Microscopy Images},
   author={Ben Rabah, Chaima and Petropoulos, Ioannis Nikolaos and Malik, Rayaz A and Serag, Ahmed},
   journal={Frontiers in Imaging},
